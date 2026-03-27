@@ -18,7 +18,6 @@
 | Project | Why it matters |
 |---|---|
 | **[Haystack](https://github.com/deepset-ai/haystack)** | Specializes in building production-ready RAG pipelines and AI-powered search, excelling in automated research and document retrieval. |
-| **[Pi-Mono](https://github.com/pi-mono/pi-mono)** | An AI Agent Toolkit built in TypeScript focused strictly on minimalism and extensibility, contrasting with heavily bloated default frameworks. |
 | **[Claude-Mem](https://github.com/claude-mem/claude-mem)** | Provides persistent memory architecture specifically tailored for Claude Code, utilizing a secure hook-based system. |
 | **[Agent-Lightning](https://github.com/microsoft/agent-lightning)** | A Microsoft Agent Trainer framework optimized for improving agent behavior through reinforcement learning and prompt optimization. |
 
