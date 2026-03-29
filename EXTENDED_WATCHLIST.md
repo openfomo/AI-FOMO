@@ -27,6 +27,7 @@
 |---|---|
 | **[GitHub Spec Kit](https://github.com/github/spec-kit)** | Innovating in "Spec-Driven Development", using AI to generate and maintain complex application code entirely from structured markdown specifications. |
 | **[VibeTunnel](https://github.com/vibetunnel/vibetunnel)** | Transforms any standard web browser into a terminal for remote agent monitoring, featuring session recording and Git follow modes. |
+| **[Pretext](https://github.com/chenglou/pretext)** | A pure JS/TS library for multiline text measurement without the DOM. Highly useful for AI agents performing UI measurement, layout calculation, and text iteration without triggering expensive browser reflows. |
 
 ## 4. Local AI & Companion Agents
 
